@@ -23,7 +23,7 @@
             </div>
             @endforeach
         </div>
-        <div class='paginate'>{{ $posts->link()}}</div>
+        <div class='paginate'>{{ $posts->links()}}</div>
         
         
     </body>
